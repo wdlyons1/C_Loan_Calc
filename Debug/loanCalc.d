@@ -1,0 +1,1 @@
+loanCalc.o: ../loanCalc.c
